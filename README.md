@@ -1,0 +1,2 @@
+# premium-fuzz-circuit-001-fuzz-circuit-building-german
+You've spent hours breadboarding a fuzz face clone, but every germanium transistor you swap sounds like a different pedal — and you can't remember which bias voltages gave you that perfect velcro clip. Stop losing your tone experiments to messy notes.  This Notion template turns your germanium craft into a disciplined yet creative lab. It replaces
